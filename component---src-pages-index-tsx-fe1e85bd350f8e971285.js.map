@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.tsx"],"names":["Home"],"mappings":"2FAAA,gCAIeA,UAFQ,kBAAM","file":"component---src-pages-index-tsx-fe1e85bd350f8e971285.js","sourcesContent":["import React from 'react'\n\nconst Home: React.FC = () => <h1>IT WORKS!</h1>\n\nexport default Home\n"],"sourceRoot":""}
